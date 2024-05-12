@@ -6,23 +6,23 @@ This project aims to analyze Netflix's 2019 dataset to uncover content trends an
 The dataset used for this analysis is sourced from Flixable, providing information on Netflix's content in 2019.
 
 ## Data Analysis
-Trend Analysis:
+### Trend Analysis:
 Identified significant growth in TV shows and decline in movies since 2010.
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 Revealed insights into genre popularity, regional distribution, and content addition patterns.
-Clustering Techniques:
+### Clustering Techniques:
 Utilized K-Means and Agglomerative Hierarchical Clustering to group content for further analysis.
 ## Results
-Trends:
+### Trends:
 Noted a significant increase in TV shows and a decrease in movies since 2010.
-EDA Insights:
+### EDA Insights:
 Explored genre popularity, regional distribution, and content addition patterns.
-Clustering Analysis:
+### Clustering Analysis:
 Grouped content using clustering techniques for deeper insights.
 ## Recommendation System
-Development:
+### Development:
 Developed a Recommendation System leveraging similarity scores.
-Implementation:
+### Implementation:
 Delivered personalized recommendations to enhance user experience and reduce subscriber churn on Netflix.
 ## Conclusion
 This analysis sheds light on content trends and user preferences on Netflix, highlighting the importance of data analysis in understanding user behavior and enhancing user satisfaction.
